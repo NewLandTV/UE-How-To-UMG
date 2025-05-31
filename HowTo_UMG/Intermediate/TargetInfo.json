@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HowTo_UMG",
+			"Path": "E:\\Programming\\Projects\\Unreal_Projects\\HowTo_UMG\\Source\\HowTo_UMG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HowTo_UMGEditor",
+			"Path": "E:\\Programming\\Projects\\Unreal_Projects\\HowTo_UMG\\Source\\HowTo_UMGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

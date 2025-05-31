@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Programming\\Projects\\Unreal_Projects\\HowTo_UMG\\Source\\HowTo_UMG\\HowTo_UMG.Build.cs",
+		"E:\\Programming\\Projects\\Unreal_Projects\\HowTo_UMG\\Source\\HowTo_UMG.Target.cs",
+		"E:\\Programming\\Projects\\Unreal_Projects\\HowTo_UMG\\Source\\HowTo_UMGEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
